@@ -1,2 +1,2 @@
 This is from aws server file
-This update from gitserver
+This update from git server
